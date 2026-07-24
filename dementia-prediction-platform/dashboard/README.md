@@ -87,3 +87,7 @@ NAVER CLOVA STT와 GPT 기반 CIST 인지기능검사를 수행하고 검사 결
 <p align="center">
   <img src="images/dashboard_word_search_game.png" width="900">
 </p>
+
+
+## 📦 Tableau Dashboard (.twbx)
+대시보드 원본은 dementia_dashboard.zip에서 확인할 수 있습니다.
