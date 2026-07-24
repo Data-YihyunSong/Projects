@@ -216,7 +216,6 @@ AI-Dementia-Platform
 - Feature Engineering
 - 머신러닝·딥러닝 모델 개발
 - Hyperparameter Tuning (Optuna)
-- GPT 기반 CIST 응답 분석 로직 구현
 - 대시보드 설계 및 개발
 - 팀원 역할 분담 및 프로젝트 산출물 통합
 ---
