@@ -1,1 +1,44 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <title>숨은단어찾기</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="game-title">
+  <span class="icon">🧩</span>
+  <span class="text">숨은 단어 찾기</span>
+  <span class="icon">🧩</span>
+</header>
 
+
+<div class="difficulty-select">
+  <button id="demoBtn">🎯 데모</button>
+  <button id="easyBtn">🌱 초급</button>
+  <button id="mediumBtn">🌿 중급</button>
+  <button id="hardBtn">🌳 고급</button>
+</div>
+
+  <div class="status">
+    <span id="timer">60초</span>
+    <span>점수: <span id="score">0</span></span>
+  </div>
+
+  <div class="game-container">
+    <div id="game-board" class="game-board"></div>
+    <div class="word-box">
+      <h3>🔍 찾아야 할 단어</h3>
+      <ul id="word-list"></ul>
+    </div>
+  </div>
+
+  <div id="overlay">
+  <h2>게임 종료!</h2>
+  <p>최종 점수: <span id="final-score"></span></p>
+  <button id="restartBtn">다시하기</button> <!-- ✅ 추가 -->
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
