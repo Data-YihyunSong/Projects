@@ -228,13 +228,4 @@ AI-Dementia-Platform
 - 의료기관 API 연계
 - 모델 성능 고도화
 
----
 
-# 👥 Team
-
-**Sparta Data Analysis 6th**
-
-- 송이현
-- 온지윤
-- 한광호
-- 김동현
