@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension>
+  <name>Card Matching Game</name>
+  <description>Simple card matching game extension</description>
+  <url>https://ryemso.github.io/tableau-cardgame/</url>
+  <minApiVersion>1.4</minApiVersion>
+  <extensionType>dashboard</extensionType>
+  <author>
+    <name>전략가 렴님</name>
+  </author>
+  <version>1.0.0</version>
+<MinimumVersion>2018.2</MinimumVersion>
+
+  <WebExtension>
+    <!-- 여기를 수정 -->
+    <Url>https://ryemso.github.io/tableau-cardgame/index.html</Url>
+    <AllowCrossDomainAccess>true</AllowCrossDomainAccess>
+  </WebExtension>
+</ExtensionManifest>
