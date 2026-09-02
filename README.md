@@ -4,21 +4,21 @@
 
 ---
 
-## 📌 Project Directory & Overview
+## 📌 Projects Summary
 
-* 🏭 **[Projects/cnc-defect-prediction](#-projects-cnc-defect-prediction)**
+* 🏭 **CNC Machine Defect Prediction** [:link: 바로가기](https://github.com/Data-YihyunSong/Projects/tree/main/cnc-defect-prediction)
   * **한 줄 요약:** CNC 센서 데이터 기반 불량 예측 및 SHAP 원인 분석을 통한 공정 개선
   * **핵심 성과:** DNN 정확도 96.7%, CNN F1-Score 96.5% 달성
-* 🧠 **[Projects/dementia-prediction-platform](#-projects-dementia-prediction-platform)**
+* 🧠 **AI Dementia Prevention Platform** [:link: 바로가기](https://github.com/Data-YihyunSong/Projects/tree/main/dementia-prediction-platform)
   * **한 줄 요약:** 음성 STT 및 Bi-LSTM 기반 비대면 치매 선별/예방 헬스케어 플랫폼
   * **핵심 성과:** 라이프로그 시계열 학습 및 음성 CIST 검사 자동화, Tableau 대시보드 구축
-* 📚 **[Projects/mooc-user-behavior-analysis](#-projects-mooc-user-behavior-analysis)**
+* 📚 **MOOC Platform User Analysis** [:link: 바로가기](https://github.com/Data-YihyunSong/Projects/tree/main/mooc-user-behavior-analysis)
   * **한 줄 요약:** edX 64만 건 데이터 기반 AARR 퍼널 분석 및 Tableau 대시보드 구축
   * **핵심 성과:** 이탈 병목 구간(Activation $\rightarrow$ Retention 48% 이탈) 규명
 
 ---
 
-## 🏭 `Projects/cnc-defect-prediction`
+## 🏭 CNC Machine Defect Prediction [:link: 바로가기](https://github.com/Data-YihyunSong/Projects/tree/main/cnc-defect-prediction)
 
 ### 💡 Core Summary
 * **목적:** 가공 센서 데이터를 분석하여 공정 불량을 사전에 예측하고, 예측 실패 원인을 분석하여 공정 파생변수 설계
@@ -30,7 +30,7 @@
 
 ---
 
-## 🧠 `Projects/dementia-prediction-platform`
+## 🧠 AI Dementia Prevention Platform [:link: 바로가기](https://github.com/Data-YihyunSong/Projects/tree/main/dementia-prediction-platform)
 
 ### 💡 Core Summary
 * **목적:** 접근성이 낮은 고령자를 위해 음성 인터페이스 기반 비대면 치매 선별 플랫폼 및 모니터링 시스템 구축
@@ -42,7 +42,7 @@
 
 ---
 
-## 📚 `Projects/mooc-user-behavior-analysis`
+## 📚 MOOC Platform User Analysis [:link: 바로가기](https://github.com/Data-YihyunSong/Projects/tree/main/mooc-user-behavior-analysis)
 
 ### 💡 Core Summary
 * **목적:** edX 수강생의 학습 행동 및 이탈 구간 분석을 통한 수료율 개선 인사이트 도출
