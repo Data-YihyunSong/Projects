@@ -96,7 +96,7 @@ Acquisition → Activation → Retention → Revenue
 ---
 
 # 👨‍💻 My Role
-
+Data Analyst | Tableau & AARR
 
 * Tableau 대시보드 설계 및 구축
 * 주요 KPI 및 사용자 행동 데이터 시각화
